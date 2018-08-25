@@ -3,6 +3,11 @@
   "version": "1.0.10",
   "description": "A react timeline component built with Semantic UI React",
   "main": "dist/index.js",
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/MichaelFerrari/react-timeline-semantic-ui"
+  },
+  "homepage": "https://github.com/MichaelFerrari/react-timeline-semantic-ui",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "webpack-dev-server --mode development",
@@ -38,6 +43,5 @@
     "timeline",
     "SemanticUI"
   ],
-  "author": "Chuqi Zhou",
-  "license": "ISC"
+  "author": "Chuqi Zhou"
 }
